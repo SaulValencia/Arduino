@@ -1,4 +1,5 @@
 /***********************************************
+Prueba de actualizacion
 1. SPI Interface Inatruction
       clockPin --> SCK(EN)
       latchPin --> CS(RS)
